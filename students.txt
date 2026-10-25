@@ -1,0 +1,4 @@
+alameen,23,45
+khairah,20,98
+ridollah,21,99
+alameen,234,78
